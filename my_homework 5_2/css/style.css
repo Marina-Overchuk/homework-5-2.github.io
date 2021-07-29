@@ -1,0 +1,14 @@
+table {
+   border-spacing: 0px;
+}
+td {
+   border: 1px solid rgb(13, 13, 14);
+   width: 30px;
+   height: 30px; 
+}
+.secondline {
+   height: 50px;
+}
+.thirtline {
+   height: 50px; 
+}
